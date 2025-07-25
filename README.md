@@ -1,2 +1,2 @@
 # mlm-bias-mitigation
-Evaluate and mitigate bias in masked language models (e.g., RoBERTa, BERT) using stereotype-sensitive benchmarking and fine-tuning.
+Evaluating and mitigating social bias in masked language models using StereoSet and fine-tuning strategies like counter-stereotype data and LoRA adapters.
